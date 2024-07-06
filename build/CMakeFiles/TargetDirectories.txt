@@ -1,0 +1,3 @@
+/home/sora/桌面/c_practice/snake/CMakeFiles/snake.dir
+/home/sora/桌面/c_practice/snake/CMakeFiles/edit_cache.dir
+/home/sora/桌面/c_practice/snake/CMakeFiles/rebuild_cache.dir
